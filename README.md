@@ -68,4 +68,5 @@ For the study material for a few courses of nptel, [click here](https://github.c
 # See more
 - [3rd year resources](https://github.com/AnanthMAthreya/3rd-year-resources-2022-scheme-rvce)
 - [4th year resources](https://github.com/AnanthMAthreya/4th_year_resources_2022_scheme_RVCE)
+- [Placement preparation](https://github.com/AnanthMAthreya/Placement_prep)
 
